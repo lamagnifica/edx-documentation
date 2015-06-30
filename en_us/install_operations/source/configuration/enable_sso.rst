@@ -118,9 +118,9 @@ At the end of the registation process, edX sends an email to the email address p
 
 You can specify whether to skip the email verification step during the registation process via the Third Party Auth -> Provider Configuration (OAuth2) page.
 
-=================================================================
+======================================================================
 Ability to specify default 3rd party auth via QueryString parameter: 
-=================================================================
+======================================================================
 
 If the link to a course includes a query parameter (tpa_hint) that specifies one of the enabled third party auth providers, and the user is not logged in to that provider, the third party auth sign in flow with the specified provider will be automatically started instead of redirecting the user to the login page.
 
