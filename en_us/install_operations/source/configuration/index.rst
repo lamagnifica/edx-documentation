@@ -19,4 +19,5 @@ options.
    enable_certificates
    enable_badging
    enable_ccx
+   enable_sso
 
