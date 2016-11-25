@@ -12,7 +12,6 @@ course discussions.
    :maxdepth: 2
 
    course_data
-   bulk_email
    course_enrollment
    manage_course_fees
    discussions
